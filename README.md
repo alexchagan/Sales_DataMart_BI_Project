@@ -1,5 +1,5 @@
 # Decathlon Sales Department DataMart
-A comprehensive BI roject tailored for Decathlon's sales department. The project involves the analysis of data sourced from the priorityERP OLTP database, focusing on establishing robust connections, ensuring data integrity, and optimizing data flows for efficient analysis.
+A comprehensive BI Project tailored for Decathlon's sales department. The project involves the analysis of data sourced from the priorityERP OLTP database, focusing on establishing robust connections, ensuring data integrity, and optimizing data flows for efficient analysis.
 
 # Key Features:
 * Data Analysis: Analyzed data from the priorityERP OLTP database, identifying crucial insights for Decathlon's sales department.
